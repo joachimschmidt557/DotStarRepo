@@ -2,11 +2,13 @@
     "Packages": [
         {
             "Name": "DotStar",
-            "URL": ""
+            "URL": "",
+            "Version": "0.1"
         },
         {
             "Name": "DotStarTemplatePackage",
-            "URL": "https://github.com/joachimschmidt557/DotStarTemplatePackage/raw/master/Test.star"
+            "URL": "https://github.com/joachimschmidt557/DotStarTemplatePackage/raw/master/Test.star",
+            "Version": "1.0.0"
         }
     ]
 }
