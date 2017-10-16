@@ -7,3 +7,11 @@ Packages:
         Name: "DotStarTemplatePackage"
         URL: "https://github.com/joachimschmidt557/DotStarTemplatePackage/raw/master/DotStarTemplatePackage.star"
         Version: "1.0.0"
+    -
+        Name: Zip2DotStar
+        URL: ""
+        Version: "0"
+    -
+        Name: DotStarVerifyer
+        URL: ""
+        Version: "0"
