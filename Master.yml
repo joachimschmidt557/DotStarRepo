@@ -1,7 +1,7 @@
 Packages:
     -
-        Name: "DotStar"
-        URL: ""
+        Name: "dotstar"
+        URL: "https://github.com/joachimschmidt557/DotStar/releases/download/v0.1-alpha/dotstar.star"
         Version: "0.1"
     -
         Name: "DotStarTemplatePackage"
